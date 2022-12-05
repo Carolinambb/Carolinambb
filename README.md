@@ -1,11 +1,12 @@
 
 <img src="https://raw.githubusercontent.com/Carolinambb/Carolinambb/master/BannerCarolina.png" alt="banner carolina riveiro full stack">
 
-
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B72&width=435&lines=Hi+there+I'm+Carolina+👋%F0%9F%91%8B" alt="Typing carolinaRiveiro" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7B72&width=435&lines=Hi+there+I'm+Carolina+👋%F0%9F%91%8B" alt="Typing carolinaRiveiro" /></a>
+</p>
 
 <h2 align="center">
-I am passionate about learning new things and I love learning to improve my skills.</h2>
+I'm passionate about learning new things to improve my skills.</h2>
 
 
 <h3 align="left">Connect with me:</h3>

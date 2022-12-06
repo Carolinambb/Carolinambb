@@ -19,8 +19,8 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
       carolinariveiro50@gmail.com
     </a
 
-
-**languages and tools:**  
+<br>
+**Languages and tools:**  
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -13,7 +13,6 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 <p align="left">
 <a href="https://www.linkedin.com/in/carolina-riveiro-268a82204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolinaRiveiro" height="30" width="45" /></a>
 </p>
- <br>
  <a href="https://carolinariveiro50@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
       carolinariveiro50@gmail.com
@@ -40,5 +39,5 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 <code><img height="40" src="https://avatars.githubusercontent.com/oa/797352?s=60&u=272e4025f5f627681270ab634bb7135d0069952d&v=4"></code>
  <br>
 
-
+ <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carolinambb&show_icons=true&theme=gotham" alt="carolinaRiveiro" />

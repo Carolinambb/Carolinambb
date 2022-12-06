@@ -34,7 +34,10 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
- 
+<code><img height="40" src="https://avatars.githubusercontent.com/in/8329?s=30&u=cd19897a18dc3e7a2b0b8be2c6ce135b726c5772&v=4"></code> 
+<code><img height="40" src="https://avatars.githubusercontent.com/in/73253?s=30&u=580e97cf9a64b47eb4366fde7f68ff00a871c391&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/61069792?s=200&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/oa/797352?s=60&u=272e4025f5f627681270ab634bb7135d0069952d&v=4"></code>
  <br>
 
 📈 My github stats

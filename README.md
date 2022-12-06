@@ -20,7 +20,7 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
     </a
 
 <br>
-**Languages and tools:**  
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 

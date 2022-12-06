@@ -11,8 +11,13 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/carolina-riveiro-268a82204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolinaRiveiro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/carolina-riveiro-268a82204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolinaRiveiro" height="30" width="45" /></a>
 </p>
+ <br>
+ <a href="https://carolinariveiro50@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      carolinariveiro50@gmail.com
+    </a
 
 
 **languages and tools:**  
@@ -35,9 +40,5 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Carolinambb&show_icons=true&theme=gotham" alt="carolinaRiveiro" />
- <br>
- <a href="https://carolinariveiro50@gmail.com">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      carolinariveiro50@gmail.com
-    </a>    
+>    
    

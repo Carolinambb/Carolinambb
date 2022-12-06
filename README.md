@@ -6,9 +6,9 @@
 </p>
 
 <h3 align="center">
-I enjoy working in a team, and being able to exchange new knowledge. I love giving life to the page, through the design and the components that allow the user to navigate the application</h3>
+I enjoy working in a team, and being able to exchange new knowledge. I love giving life to the page, through the design and the components that allow the user to navigate the application!</h3>
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carolina-riveiro-268a82204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carolinaRiveiro" height="30" width="45" /></a>

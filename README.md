@@ -23,7 +23,7 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 
 <h3 align="left">Languages and Tools:</h3>
 
-<code><img height="40" HSPACE="5" VSPACE="5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -31,7 +31,7 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code> 
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-<code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
+<code><img height="43" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/in/8329?s=30&u=cd19897a18dc3e7a2b0b8be2c6ce135b726c5772&v=4"></code> 
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/in/73253?s=30&u=580e97cf9a64b47eb4366fde7f68ff00a871c391&v=4"></code>

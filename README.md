@@ -38,6 +38,7 @@ I enjoy working in a team, and being able to exchange new knowledge. I love givi
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/u/61069792?s=200&v=4"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/oa/797352?s=60&u=272e4025f5f627681270ab634bb7135d0069952d&v=4"></code>
 <code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"></code>
+<code><img height="40" HSPACE="7" VSPACE="7" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4"></code>
  <br>
 
  <br>
